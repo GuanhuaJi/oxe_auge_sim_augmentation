@@ -25,7 +25,8 @@ pip install -e .
 
 ## 2) Download simulation data
 
-Download the original simulation data here: **LINK**
+Download the original simulation data here: [Download link](https://drive.google.com/drive/folders/1_uzmaaKWoorH0qZFmWFJ_LJk0B-3TRRb?usp=sharing)
+
 (Place it wherever you prefer; you’ll point to the `.hdf5` file(s) in the next step.)
 
 ---
@@ -163,6 +164,8 @@ replay_videos/
 ```
 
 ---
+
+Download the augmented simulation data here: [Download link](https://drive.google.com/drive/folders/1rMnAwPSM_Q3gBWDjwXHsdI2VXmZmx7A9?usp=sharing)
 
 ## Tips
 
